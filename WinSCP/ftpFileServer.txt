@@ -1,0 +1,4 @@
+ftpes://desarrollouser:Gabinet3.s1@idcapp55:3794/
+cd /Salida
+get *.txt d:\FILETRANFER\MemorialBus\Salida
+exit

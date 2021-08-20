@@ -1,0 +1,2 @@
+InsurancePolicyID,InsurancePlanID,PlanName,PolicyNumber,PlanOptionID,PlanOptionDescription,StatusCode,EntryCode,PaymentID,DueDate,PaymentNumber,PaymentDate,PaymentAmount,AccountNumber,StatusInd,ErrorDescription,CoreTransactionNumber2
+3263,PA46_C4_P1,PLAN FAMILIAR F3,VIRHG9BDU3F107ISRPN,PA46_C4_P1,PLAN FAMILIAR F3,1,F3,3482,2021-10-07,2,2020-11-09,4.99,90000231556,P,ERROR-3-SALDO INSUFICIENTE, 

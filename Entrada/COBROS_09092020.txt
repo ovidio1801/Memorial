@@ -1,0 +1,1 @@
+InsurancePolicyID,InsurancePlanID,PlanName,PolicyNumber,PlanOptionID,PlanOptionDescription,StatusCode,EntryCode,PaymentID,DueDate,PaymentNumber,PaymentDate,PaymentAmount,AccountNumber,StatusInd,ErrorDescription,CoreTransactionNumber2

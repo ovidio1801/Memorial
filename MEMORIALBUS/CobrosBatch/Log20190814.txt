@@ -1,0 +1,210 @@
+Microsoft (R) SQL Server Execute Package Utility
+Version 10.50.4000.0 for 64-bit
+Copyright (C) Microsoft Corporation 2010. All rights reserved.
+
+Started:  3:58:03 PM
+Progress: 2019-08-14 15:58:03.26
+   Source: Pagos a Aplicar 
+   Validating: 0% complete
+End Progress
+Progress: 2019-08-14 15:58:03.29
+   Source: Pagos a Aplicar 
+   Validating: 33% complete
+End Progress
+Progress: 2019-08-14 15:58:03.29
+   Source: Pagos a Aplicar 
+   Validating: 66% complete
+End Progress
+Progress: 2019-08-14 15:58:03.29
+   Source: Pagos a Aplicar 
+   Validating: 100% complete
+End Progress
+Progress: 2019-08-14 15:58:03.30
+   Source: Pagos a Aplicar 
+   Validating: 0% complete
+End Progress
+Progress: 2019-08-14 15:58:03.30
+   Source: Pagos a Aplicar 
+   Validating: 33% complete
+End Progress
+Progress: 2019-08-14 15:58:03.30
+   Source: Pagos a Aplicar 
+   Validating: 66% complete
+End Progress
+Progress: 2019-08-14 15:58:03.30
+   Source: Pagos a Aplicar 
+   Validating: 100% complete
+End Progress
+Progress: 2019-08-14 15:58:03.31
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 0% complete
+End Progress
+Progress: 2019-08-14 15:58:03.31
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 33% complete
+End Progress
+Progress: 2019-08-14 15:58:03.31
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 66% complete
+End Progress
+Progress: 2019-08-14 15:58:03.31
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 100% complete
+End Progress
+Progress: 2019-08-14 15:58:03.31
+   Source: Pagos a Aplicar 
+   Pre-Execute: 0% complete
+End Progress
+Progress: 2019-08-14 15:58:03.32
+   Source: Pagos a Aplicar 
+   Pre-Execute: 33% complete
+End Progress
+Progress: 2019-08-14 15:58:03.32
+   Source: Pagos a Aplicar 
+   Pre-Execute: 66% complete
+End Progress
+Progress: 2019-08-14 15:58:03.32
+   Source: Pagos a Aplicar 
+   Pre-Execute: 100% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Post Execute: 0% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Post Execute: 33% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Post Execute: 66% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Post Execute: 100% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Cleanup: 0% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Cleanup: 33% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Cleanup: 66% complete
+End Progress
+Progress: 2019-08-14 15:58:03.83
+   Source: Pagos a Aplicar 
+   Cleanup: 100% complete
+End Progress
+DTExec: The package execution returned DTSER_SUCCESS (0).
+Started:  3:58:03 PM
+Finished: 4:17:26 PM
+Elapsed:  1163.58 seconds
+Microsoft (R) SQL Server Execute Package Utility
+Version 10.50.4000.0 for 64-bit
+Copyright (C) Microsoft Corporation 2010. All rights reserved.
+
+Started:  4:21:23 PM
+Progress: 2019-08-14 16:21:23.51
+   Source: Pagos a Aplicar 
+   Validating: 0% complete
+End Progress
+Progress: 2019-08-14 16:21:23.56
+   Source: Pagos a Aplicar 
+   Validating: 33% complete
+End Progress
+Progress: 2019-08-14 16:21:23.56
+   Source: Pagos a Aplicar 
+   Validating: 66% complete
+End Progress
+Progress: 2019-08-14 16:21:23.56
+   Source: Pagos a Aplicar 
+   Validating: 100% complete
+End Progress
+Progress: 2019-08-14 16:21:23.56
+   Source: Pagos a Aplicar 
+   Validating: 0% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Validating: 33% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Validating: 66% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Validating: 100% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 0% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 33% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 66% complete
+End Progress
+Progress: 2019-08-14 16:21:23.57
+   Source: Pagos a Aplicar 
+   Prepare for Execute: 100% complete
+End Progress
+Progress: 2019-08-14 16:21:23.58
+   Source: Pagos a Aplicar 
+   Pre-Execute: 0% complete
+End Progress
+Progress: 2019-08-14 16:21:23.58
+   Source: Pagos a Aplicar 
+   Pre-Execute: 33% complete
+End Progress
+Progress: 2019-08-14 16:21:23.58
+   Source: Pagos a Aplicar 
+   Pre-Execute: 66% complete
+End Progress
+Progress: 2019-08-14 16:21:23.59
+   Source: Pagos a Aplicar 
+   Pre-Execute: 100% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Post Execute: 0% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Post Execute: 33% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Post Execute: 66% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Post Execute: 100% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Cleanup: 0% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Cleanup: 33% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Cleanup: 66% complete
+End Progress
+Progress: 2019-08-14 16:21:24.08
+   Source: Pagos a Aplicar 
+   Cleanup: 100% complete
+End Progress
+DTExec: The package execution returned DTSER_SUCCESS (0).
+Started:  4:21:23 PM
+Finished: 4:33:22 PM
+Elapsed:  718.697 seconds

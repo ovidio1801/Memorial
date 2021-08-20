@@ -1,0 +1,6 @@
+
+open ftpes://desarrollouser:Gabinet3.s1@idcapp55:3794/ -certificate="37:b3:4e:d3:e9:59:5c:c0:8f:11:f7:7c:92:6a:b9:ef:77:12:93:0e"
+
+put D:\FILETRANFER\MEMORIALBUS\SALIDA\COBROS_%TIMESTAMP#ddmmyyyy%.txt /SALIDA/
+close
+exit

@@ -1,0 +1,2 @@
+InsurancePolicyID,InsurancePlanID,PlanName,PolicyNumber,PlanOptionID,PlanOptionDescription,StatusCode,EntryCode,PaymentID,DueDate,PaymentNumber,PaymentDate,PaymentAmount,AccountNumber,StatusInd,ErrorDescription,CoreTransactionNumber2
+998,PA46_C4_P1,PLAN FAMILIAR F3,VIR9U2KAFSKBM97OR37,PA46_C4_P1,PLAN FAMILIAR F3,1,F3,1159,2021-07-13 00:00:00,4,0000-00-00,4.990000,310100427647,P,,
